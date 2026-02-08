@@ -1,20 +1,22 @@
-# Phase I – Todo Console App
+# Hackathon 2 – Phase I
 
-## Description
-Spec-driven in-memory todo application built using Claude Code and Spec-Kit Plus.
+## Spec-Driven In-Memory Todo CLI
 
-## Features
-- Add task
-- View tasks
-- Update task
-- Delete task
-- Mark task complete/incomplete
+This project was built for Hackathon Phase I using **Spec-Driven Development**.
 
-## Tech Stack
-- Python 3.13+
+All functionality was generated using **Claude Code** based strictly on written specifications.
+
+### Features
+- Interactive CLI menu
+- Add / View / Update / Delete tasks
+- Toggle task completion
+- In-memory storage only
+
+### Tech Stack
+- Python 3
 - Claude Code
 - Spec-Kit Plus
 
-## Run Instructions
+### Run Instructions
 ```bash
 python src/todo/main.py
