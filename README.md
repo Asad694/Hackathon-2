@@ -1,3 +1,5 @@
+<img width="736" height="552" alt="Your paragraph text" src="https://github.com/user-attachments/assets/382d732d-5e4f-4621-999f-daee0e43204a" />
+
 # Hackathon 2 – Phase I
 
 ## Spec-Driven In-Memory Todo CLI
